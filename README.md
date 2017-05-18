@@ -1,6 +1,6 @@
 # Javascript Resources
 
-> Blog posts, books or resources I've found useful. Feel free to add yours
+> Javascript related blog posts, books or resources I've found to be useful. Feel free to add yours
 
 ## Posts
 
